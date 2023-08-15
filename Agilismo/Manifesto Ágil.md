@@ -1,0 +1,4 @@
+- **Individuos** **e interacciones** sobre herramientas procesos
+- **Software [[funcional]]** sobre documentación completa
+- **Colaboración con el [[cliente]]** sobre negociación de contratos
+- **Responder al cambio** sobre seguir un plan

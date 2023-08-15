@@ -1,0 +1,1 @@
+- Está involucrado un atributo de calidad

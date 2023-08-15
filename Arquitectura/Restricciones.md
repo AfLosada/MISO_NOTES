@@ -1,0 +1,4 @@
+- Decisiones que no son [[Atributos de Calidad]] 
+- Decisiones sobre las cuales no puedo decidir 
+	- Vamos a usar Python / Flask
+	- Vamos a usar AWS

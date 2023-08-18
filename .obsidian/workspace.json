@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "698904f7add24707",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agilismo/Semana 2/Historias De Usuario.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Agilismo/Historias de Usuario.md",
+                "file": "Agilismo/Semana 2/Historias De Usuario.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Agilismo/Historias de Usuario.md",
+                "file": "Agilismo/Semana 2/Historias De Usuario.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agilismo/Historias de Usuario.md"
+                "file": "Agilismo/Semana 2/Historias De Usuario.md"
               }
             }
           }
@@ -195,11 +207,19 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "c462a6a3b6088a2b",
+  "active": "698904f7add24707",
   "lastOpenFiles": [
+    "Agilismo/Historias de Usuario.md",
+    "Agilismo/Semana 2/Historias De Usuario.md",
+    "Agilismo/Semana 2/Historias De Usuario.pdf",
+    "Agilismo/Semana 2/Glosario de Conceptos.pdf",
+    "Agilismo/Semana 2/Glosario de Conceptos.md",
+    "Agilismo/Semana 2/Historias De Usuario",
+    "Agilismo/Semana 2/class-diagram.zip",
+    "Agilismo/Semana 2/class-diagram.jpeg",
+    "Agilismo/Semana 2",
     "Pasted image 20230814224633.png",
     "Arquitectura/Restricciones.md",
-    "Agilismo/Historias de Usuario.md",
     "Arquitectura/Requisito de Calidad.md",
     "Agilismo/UML.md",
     "Agilismo/Princípios Ágiles.md",

@@ -1,1 +1,2 @@
 - Está involucrado un atributo de calidad
+- Tiene una manera de medirse

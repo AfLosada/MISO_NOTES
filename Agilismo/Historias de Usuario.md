@@ -9,7 +9,7 @@ We want to negotiate the details, the implementation should not be set in stone.
 Stories should have value for the user or the customer.
 Technical stories can exists, but the value should be clear to the **product owner.**
 Most times, technical stories can be understood better as tasks, as they give value to a story but not by themselves.
-# Estimatable
+# Estimable
 Stories must be able to be estimated. If they can't you have two choices:
 - Break it down with the product owner
 - Do some exploratory work to deepen the knowledge of the team so they are able to break it down.

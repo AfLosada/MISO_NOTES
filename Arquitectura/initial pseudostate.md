@@ -1,0 +1,1 @@
+Drawn with a filled circle, it marks the beginning of the diagram and must exists as the definitions for [[state]]s and [[transition]]s require it. 

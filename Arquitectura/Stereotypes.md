@@ -2,7 +2,7 @@
 	- Class that provides utility services through static methods
 - Service (component stereotype)
 	- A stateless, functional component that computes a value; could be used to represent a web service.
-- Subsystem (componen stereotype)
+- [[Subsystem]] (componen stereotype)
 	- A large component that is actually a subordinate system of a larger system
 - Executable (artifact stereotype)
 	- Physical file that is executable

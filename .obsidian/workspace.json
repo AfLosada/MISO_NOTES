@@ -25,50 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agilismo/UML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bfde13b9a70aae18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arquitectura/Restricciones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e17dd6d8bdbb644",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arquitectura/Restricciones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c462a6a3b6088a2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agilismo/Stereotypes.md",
+                "file": "Arquitectura/UML.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "right": {
     "id": "9401345b0c382aec",
@@ -134,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Agilismo/Stereotypes.md",
+                "file": "Arquitectura/UML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Agilismo/Stereotypes.md",
+                "file": "Arquitectura/UML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agilismo/Stereotypes.md"
+                "file": "Arquitectura/UML.md"
               }
             }
           }
@@ -196,39 +160,50 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "c462a6a3b6088a2b",
+  "active": "97238a21cdd8a9b9",
   "lastOpenFiles": [
-    "Pasted image 20230823223942.png",
-    "Agilismo/UML Notation.md",
-    "Agilismo/Stereotypes.md",
-    "Agilismo/UML.md",
-    "Agilismo/Views.md",
-    "Agilismo/Historias de Usuario.md",
+    "Arquitectura/Restricciones.md",
+    "Arquitectura/Component Diagrams.md",
+    "Arquitectura/assembly connectors.md",
+    "Pasted image 20230824225751.png",
+    "Arquitectura/delegation connectors.md",
+    "Pasted image 20230824225622.png",
+    "Arquitectura/Component.md",
+    "Arquitectura/Ports.md",
+    "Pasted image 20230824225325.png",
+    "Pasted image 20230824225203.png",
+    "Pasted image 20230824225133.png",
+    "Pasted image 20230824225128.png",
+    "Pasted image 20230824224903.png",
+    "Arquitectura/provided interfaces.md",
+    "Arquitectura/interface.md",
+    "Pasted image 20230824224740.png",
+    "Arquitectura/Stereotype.md",
+    "Pasted image 20230824224555.png",
+    "Arquitectura/Ball and Socket.md",
+    "Pasted image 20230824224427.png",
+    "Arquitectura/required interfaces.md",
+    "Arquitectura/subsystem.md",
+    "Arquitectura/signals.md",
+    "Arquitectura/transition.md",
+    "Arquitectura/internal transitions.md",
+    "Arquitectura/State Machine Diagrams.md",
+    "Arquitectura/advanced pseudostates.md",
+    "Arquitectura/initial pseudostate.md",
+    "Arquitectura/Composite States.md",
+    "Arquitectura/state.md",
+    "Arquitectura/internal behavior.md",
+    "Arquitectura/states.md",
+    "Arquitectura/UML.md",
+    "Arquitectura/Views.md",
+    "Arquitectura/logical view.md",
+    "Arquitectura/logical model.md",
     "Untitled.canvas",
-    "Arquitectura/Requisito de Calidad.md",
-    "Arquitectura/Atributos de Calidad.md",
-    "Arquitectura/Architectural Structures.md",
-    "Agilismo/Princípios Ágiles.md",
-    "Agilismo/Manifesto Ágil.md",
-    "Agilismo/entregas tempranas.md",
-    "Agilismo/continuas.md",
-    "Agilismo/cliente.md",
-    "Agilismo/cambiantes.md",
-    "Agilismo/autogestionan.md",
-    "Agilismo/funcional frecuentemente.md",
-    "Agilismo/Semana 2/Historias De Usuario.md",
     "Agilismo/Semana 2/Historias De Usuario.pdf",
     "Agilismo/Semana 2/Glosario de Conceptos.pdf",
-    "Agilismo/Semana 2/Glosario de Conceptos.md",
     "Agilismo/Semana 2/Historias De Usuario",
     "Agilismo/Semana 2/class-diagram.zip",
-    "Agilismo/Semana 2/class-diagram.jpeg",
     "Agilismo/Semana 2",
-    "Pasted image 20230814224633.png",
-    "Arquitectura/Restricciones.md",
-    "().md",
-    "Arquitectura/Software Architecture.md",
-    "Pasted image 20230809222038.png",
     "Arquitectura",
     "Agilismo"
   ]

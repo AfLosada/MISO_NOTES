@@ -1,0 +1,1 @@
+It is an [[interface]] that a component realizes. This means that it implements it. 

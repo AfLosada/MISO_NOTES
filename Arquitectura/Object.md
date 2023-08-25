@@ -1,0 +1,1 @@
+An instance of a class, its attributes may differ in runtime. 

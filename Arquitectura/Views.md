@@ -1,4 +1,4 @@
-Logical view
+[[Logical view]]
 	Abstractions of the systems parts. Ex: class, object, state machine and interaction 
 Process view
 	What must happen within your system. Ex: activity diagrams.

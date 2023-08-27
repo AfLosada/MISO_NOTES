@@ -18,7 +18,7 @@ This version includes a table like the following
 |Component|Important components within your system and the interfaces they use to interact with each other.|UML 1.x, but takes on a new meaning in UML 2.0|[Chapter 12](https://learning.oreilly.com/library/view/learning-uml-2-0/0596009828/ch12.html "Chapter 12. Managing and Reusing Your System’s Parts: Component Diagrams")|
 |Package|The hierarchical organization of groups of classes and components.|UML 2.0|[Chapter 13](https://learning.oreilly.com/library/view/learning-uml-2-0/0596009828/ch13.html "Chapter 13. Organizing Your Model: Packages")|
 |[[State]] Machine|The state of an object throughout its lifetime and the events that can change that state.|UML 1.x|[Chapter 14](https://learning.oreilly.com/library/view/learning-uml-2-0/0596009828/ch14.html "Chapter 14. Modeling an Object’s State: State Machine Diagrams")|
-|Deployment|How your system is finally deployed in a given real-world situation.|UML 1.x|[Chapter 15](https://learning.oreilly.com/library/view/learning-uml-2-0/0596009828/ch15.html "Chapter 15. Modeling Your Deployed System: Deployment Diagrams")||
+|[[Deployment diagram]]|How your system is finally deployed in a given real-world situation.|UML 1.x|[Chapter 15](https://learning.oreilly.com/library/view/learning-uml-2-0/0596009828/ch15.html "Chapter 15. Modeling Your Deployed System: Deployment Diagrams")||
 
 UML models have different scopes.
 - UML as a sketch

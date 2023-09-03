@@ -8,3 +8,5 @@ Physical view
 	How the steps above are brought to life as a set of real world entities. Ex: deployment diagrams.
 Use case view
 	System as seen from the outside world. What should this system do? Ex: use case diagrams, descriptions and overview diagrams.
+
+Views can be exemplified in [[viewpoints]]

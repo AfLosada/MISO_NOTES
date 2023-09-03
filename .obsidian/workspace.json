@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arquitectura/UML.md",
+                "file": "Arquitectura/Views.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8503166d5468a5f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arquitectura/Deployment.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "deployment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquitectura/UML.md",
+                "file": "Arquitectura/Deployment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arquitectura/UML.md",
+                "file": "Arquitectura/Deployment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arquitectura/UML.md"
+                "file": "Arquitectura/Deployment.md"
               }
             }
           }
@@ -150,6 +163,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
@@ -158,15 +173,27 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "97238a21cdd8a9b9",
+  "active": "8503166d5468a5f7",
   "lastOpenFiles": [
-    "Arquitectura/Restricciones.md",
+    "Arquitectura/CuadernoS3.drawio.crswap",
+    "Arquitectura/Deployment diagram.md",
     "Arquitectura/Component Diagrams.md",
+    "Arquitectura/Component.md",
+    "Arquitectura/Functional.md",
+    "Arquitectura/CuadernoS3.drawio",
+    "Arquitectura/Contexto.drawio.crswap",
+    "Arquitectura/Contexto.drawio.png",
+    "Arquitectura/Contexto.drawio",
+    "Arquitectura/viewpoints.md",
+    "Arquitectura/Context.md",
+    "Arquitectura/Views.md",
+    "Arquitectura/logical view.md",
+    "Arquitectura/UML.md",
+    "Arquitectura/Restricciones.md",
     "Arquitectura/assembly connectors.md",
     "Pasted image 20230824225751.png",
     "Arquitectura/delegation connectors.md",
     "Pasted image 20230824225622.png",
-    "Arquitectura/Component.md",
     "Arquitectura/Ports.md",
     "Pasted image 20230824225325.png",
     "Pasted image 20230824225203.png",
@@ -179,7 +206,6 @@
     "Arquitectura/Stereotype.md",
     "Pasted image 20230824224555.png",
     "Arquitectura/Ball and Socket.md",
-    "Pasted image 20230824224427.png",
     "Arquitectura/required interfaces.md",
     "Arquitectura/subsystem.md",
     "Arquitectura/signals.md",
@@ -188,21 +214,12 @@
     "Arquitectura/State Machine Diagrams.md",
     "Arquitectura/advanced pseudostates.md",
     "Arquitectura/initial pseudostate.md",
-    "Arquitectura/Composite States.md",
-    "Arquitectura/state.md",
-    "Arquitectura/internal behavior.md",
-    "Arquitectura/states.md",
-    "Arquitectura/UML.md",
-    "Arquitectura/Views.md",
-    "Arquitectura/logical view.md",
-    "Arquitectura/logical model.md",
     "Untitled.canvas",
     "Agilismo/Semana 2/Historias De Usuario.pdf",
     "Agilismo/Semana 2/Glosario de Conceptos.pdf",
     "Agilismo/Semana 2/Historias De Usuario",
     "Agilismo/Semana 2/class-diagram.zip",
     "Agilismo/Semana 2",
-    "Arquitectura",
-    "Agilismo"
+    "Arquitectura"
   ]
 }
